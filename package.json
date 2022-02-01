@@ -9,6 +9,7 @@
   "author": "ibazina",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "read-excel-file": "^5.2.26"
   }
 }
